@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile
 
+![cloud pic](https://github.com/xomien/xomien/blob/master/71-712329_source-pink-clouds-png.png)
+
 ## Bio
 I'm a proficient Python and Lua programmer, but I can also code in Java and C. I'm currently a senior in College studying Computer Science.
 
