@@ -12,3 +12,10 @@ I have a few miscellaneous projects on my profile such as [aiotrello](https://gi
 
 ## Open Source Contributions
 I've contributed towards many open source libraries such as [aiodocker](https://github.com/aio-libs/aiodocker) and [Discordia](https://github.com/SinisterRectus/Discordia) with pull requests and issues.
+
+## Contact
+Professional inquiries: [Linkedin](https://www.linkedin.com/in/julien-k-xpbgf8inw/)
+
+Discord: `justin#1337`
+
+E-mail: `me@julien.dev`
