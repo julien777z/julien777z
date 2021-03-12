@@ -1,9 +1,11 @@
 # Welcome to my GitHub Profile
 
 ## Bio
-I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua, and I am happy to learn more.
+I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua, but I can learn more if needed.
 
 I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the largest Roblox Discord Bot (300k+ servers) that oversees millions of users (16M+).
+
+Currently a senior studying CS.
 
 ## Open Source Contributions
 I've contributed towards many open source libraries such as [aiodocker](https://github.com/aio-libs/aiodocker) and [Discordia](https://github.com/SinisterRectus/Discordia) with pull requests and issues.
