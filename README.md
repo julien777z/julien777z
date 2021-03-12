@@ -13,7 +13,7 @@ I've contributed towards many open source libraries such as [aiodocker](https://
 ## Skill set
 Languages: Python, Lua, Java, C
 
-Tools and knowledge: Algorithms, microservices, Redis, Docker, Kubernetes, Linux, (SQL and No SQL)Databases, SQL, Nginx, Discrete Mathematics, and more listed on my [Linkedin](https://www.linkedin.com/in/julien-k-xpbgf8inw/) page.
+Skills: Algorithms, microservices, Redis, Docker, Kubernetes, Linux, (SQL and No SQL)Databases, SQL, Nginx, Discrete Mathematics, and more listed on my [Linkedin](https://www.linkedin.com/in/julien-k-xpbgf8inw/) page.
 
 ## Contact Me
 <a href="mailto:me@julien.dev"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
