@@ -14,6 +14,8 @@ General skills: Algorithms, microservices, Docker, Linux, (SQL and NoSQL)Databas
 
 Database skills: RethinkDB, MongoDB, SQLite, Redis, SQL
 
+Currently learning: front-end web development 
+
 ## Contact Me
 <a href="mailto:me@julien.dev"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discordapp.com/users/84117866944663552/"><img src="https://img.shields.io/badge/discord-%7389D8.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/>
