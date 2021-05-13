@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile
+# Julien K. / xomien / Tigerism
 
 ## Bio
 I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua.
@@ -19,5 +19,4 @@ Database skills: RethinkDB, MongoDB, SQLite, Redis, SQL
 <a href="https://discordapp.com/users/84117866944663552/"><img src="https://img.shields.io/badge/discord-%7389D8.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/>
 <a href="https://www.linkedin.com/in/julien-kmec/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://dev.to/julien"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
-
-![](https://komarev.com/ghpvc/?username=xomien&style=flat-square)
+  
