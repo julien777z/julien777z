@@ -5,7 +5,7 @@ I'm a Software Engineer primarily using Python. I use industry-leading tools suc
 
 I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the largest Roblox Discord Bot (300k+ servers) that oversees 16M+ users.
 
-I'm currently a senior studying Computer Science.
+I'm currently a senior working towards a bachelors degree in Computer Science, hoping to pursue a Masters in Computer Science.
 
 ## Skill set
 Languages: Python, Lua, Java, C
