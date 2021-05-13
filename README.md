@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile
 
 ## Bio
-I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua, but I can learn more if needed.
+I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua.
 
 I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the largest Roblox Discord Bot (300k+ servers) that oversees 16M+ users.
 
@@ -10,7 +10,9 @@ I'm currently a senior studying Computer Science.
 ## Skill set
 Languages: Python, Lua, Java, C
 
-Skills: Algorithms, microservices, Redis, Docker, Kubernetes, Linux, (SQL and No SQL)Databases, SQL, Nginx, Discrete Mathematics, and more listed on my [LinkedIn](https://www.linkedin.com/in/julien-kmec/) page.
+General skills: Algorithms, microservices, Docker, Linux, (SQL and NoSQL)Databases, Nginx, Discrete Mathematics, scalability, git, and more.
+
+Database skills: RethinkDB, MongoDB, SQLite, Redis, SQL
 
 ## Contact Me
 <a href="mailto:me@julien.dev"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
