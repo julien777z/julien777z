@@ -1,5 +1,3 @@
-# Julien K.
-
 ## Bio
 I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua.
 
