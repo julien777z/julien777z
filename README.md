@@ -3,7 +3,7 @@
 ## Bio
 I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, and Lua.
 
-I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the largest Roblox Discord Bot (300k+ servers) that oversees 16M+ users.
+I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the largest Roblox Discord Bot (400k+ servers) that oversees 16M+ users.
 
 I'm currently a senior working towards a bachelors degree in Computer Science.
 
