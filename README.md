@@ -3,7 +3,7 @@
 [![me@julien.dev](https://img.shields.io/badge/-me@julien.dev-262626?style=flat-square&labelColor=262626&logo=Gmail&logoColor=white&link=mailto:me@julien.dev)](mailto:me@julien.dev)
 [![justin#1337 on Discord](https://img.shields.io/badge/-justin%231337-262626?style=flat-square&labelColor=262626&logo=discord&logoColor=white&link=https://discordapp.com/users/84117866944663552/)](https://discordapp.com/users/84117866944663552/)
 
-I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. I can also code in other languages such as Java, C, Go, and Lua.
+I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications. 
 
 I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the most popular Roblox Discord Bot (400k+ servers) that oversees 16M+ users.
 
