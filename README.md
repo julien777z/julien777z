@@ -11,7 +11,7 @@ I'm currently a senior working towards a bachelors degree in Computer Science.
 
 
 ### Skills
-Languages: Python, Lua, Java, C
+Languages: Python, Lua, Java, C, Go
 
 General skills: Algorithms, microservices, Docker, Linux, (SQL and NoSQL)Databases, Nginx, Discrete Mathematics, scalability, git, and more.
 
