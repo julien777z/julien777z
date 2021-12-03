@@ -13,3 +13,6 @@ Languages: Python, Lua, Java, C, Go
 General skills: Algorithms, microservices, Docker, Linux, (SQL and NoSQL)Databases, Nginx, Discrete Mathematics, scalability, git, and more.
 
 Database skills: RethinkDB, MongoDB, SQLite, Redis, SQL
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/84117866944663552)](https://discord.com/users/84117866944663552)
