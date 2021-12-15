@@ -15,4 +15,5 @@ General skills: Algorithms, microservices, Docker, Linux, (SQL and NoSQL)Databas
 Database skills: RethinkDB, MongoDB, SQLite, Redis, SQL
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/84117866944663552)](https://discord.com/users/84117866944663552)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/84117866944663552)](https://discord.com/users/84117866944663552)
+ -->
