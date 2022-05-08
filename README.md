@@ -18,4 +18,4 @@ I'm currently a senior working towards a bachelors degree in Computer Science.
 
 
 
-👉 [let's connect](https://linkedin.com/in/julien-kmec)
+<!-- 👉 [let's connect](https://linkedin.com/in/julien-kmec) -->
