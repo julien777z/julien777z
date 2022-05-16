@@ -14,6 +14,6 @@ I'm a Software Engineer primarily using Python. I use industry-leading tools suc
 
 I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the most popular Roblox Discord Bot (500k+ servers) that oversees 35M+ users.
 
-I also hold a bachelors degree in Computer Science from an accreddited university in Virginia.
+I also hold a bachelors degree in Computer Science from an accredited university in Virginia.
 
 <!-- 👉 [let's connect](https://linkedin.com/in/julien-kmec) -->
