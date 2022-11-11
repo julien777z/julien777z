@@ -16,6 +16,6 @@ I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the mos
 
 I also hold a bachelors degree in Computer Science from an accredited university in Virginia.
 
-Most of my work nowadays is just writing supporting processes for Bloxlink, which you can view some it here: https://github.com/bloxlink
+Most of my work nowadays is just writing supporting processes for Bloxlink, which you can view some of it here: https://github.com/bloxlink
 
 <!-- 👉 [let's connect](https://linkedin.com/in/julien-kmec) -->
