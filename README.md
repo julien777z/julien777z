@@ -15,9 +15,3 @@ I hold a bachelor's degree in Computer Science from an accredited university in 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/84117866944663552" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/julien777z" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/julien-kmec" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
-
-<p align="left">
-   <a href="https://blox.link" target="_blank">
-      <img src="https://www.blox.link/bloxlink/bloxlink-2024.png" />
-   </a>
-</p>
