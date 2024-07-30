@@ -6,9 +6,9 @@
 [![Discord](https://img.shields.io/badge/-starbucks%2E-262626?style=flat-square&labelColor=262626&logo=discord&logoColor=white&link=https://discordapp.com/users/84117866944663552/)](https://discordapp.com/users/84117866944663552/)
 -->
 
-I'm a Software Engineer primarily using Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications.
+I'm a Software Engineer at Roblox most fluent with Python. I use industry-leading tools such as Docker, Kubernetes, and Redis to create scalable applications.
 
-I'm also the owner and Lead Developer of [Bloxlink](https://blox.link) - the most popular Roblox-based Discord Bot (1M+ servers) that oversees 88M+ users.
+I founded [Bloxlink](https://blox.link) (acquired by Roblox) - the most popular Roblox-based Discord Bot (1M+ servers) that oversees 88M+ users.
 
 I hold a bachelor's degree in Computer Science from an accredited university in Virginia.
 
